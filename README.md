@@ -21,7 +21,7 @@ Sistema avanzado que combina Análisis de Componentes Principales (PCA) y cluste
 
 **Resultados:** Sistema capaz de generar recomendaciones personalizadas de carreras basadas en intereses y aptitudes
 
-[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Proyecto-blue)](https://github.com/tu-usuario/proyecto-vocacional)
+[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Proyecto-blue)](https://github.com/NoeMartinezSanchez/Sistema-de-recomendacion-vocacional-utilizando-PCA-y-Clusters)
 
 ---
 
