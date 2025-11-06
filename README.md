@@ -38,7 +38,7 @@ Proyecto de NLP que analiza comentarios de estudiantes hacia asesores virtuales 
 
 **Impacto:** Herramienta para mejorar la calidad pedagógica basada en feedback real
 
-[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Proyecto-blue)](https://github.com/tu-usuario/sentiment-analysis)
+[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Proyecto-blue)](https://github.com/NoeMartinezSanchez/NLP-Sentiment-Topics-PrepaEnLinea-2024-2025)
 
 ---
 
@@ -55,8 +55,8 @@ Plataforma de Machine Learning que predice el éxito estudiantil en educación e
 
 **Características:** Predicción en tiempo real, categorización de riesgo, recomendaciones personalizadas
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green)](https://tu-demo.streamlit.app)
-[![Repositorio](https://img.shields.io/badge/📁-Repositorio-blue)](https://github.com/tu-usuario/academic-success-predictor)
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green)](https://academic-success-predictor-rn9ss8smafjiajw9sx3q8s.streamlit.app/)
+[![Repositorio](https://img.shields.io/badge/📁-Repositorio-blue)](https://github.com/NoeMartinezSanchez/academic-success-predictor)
 
 ---
 
@@ -74,7 +74,7 @@ Sistema inteligente para detectar perfiles bots en redes sociales usando Machine
 **Endpoint:** `https://bot-detection-api-ml-model-with-96-e1p3.onrender.com`
 
 [![Live API](https://img.shields.io/badge/🔗-Live_API-purple)](https://bot-detection-api-ml-model-with-96-e1p3.onrender.com)
-[![Repositorio](https://img.shields.io/badge/📁-Repositorio-blue)](https://github.com/tu-usuario/bot-detection-api)
+[![Repositorio](https://img.shields.io/badge/📁-Repositorio-blue)](https://github.com/NoeMartinezSanchez/Bot-Detection-API---ML-Model-with-96-Accuracy)
 
 ---
 
@@ -90,7 +90,7 @@ Aplicación completa para monitoreo de redes sociales con análisis avanzado de 
 - Visualización interactiva con gráficos dinámicos
 - Nube de palabras y métricas de engagement
 
-[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Proyecto-blue)](https://github.com/tu-usuario/social-media-analytics)
+[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Proyecto-blue)](https://github.com/NoeMartinezSanchez/Streamlit-Social-Networks)
 
 ---
 
