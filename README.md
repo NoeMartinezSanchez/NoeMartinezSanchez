@@ -31,7 +31,7 @@ Sistema de asistencia educativa inteligente con **Retrieval-Augmented Generation
 [![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-FF6B6B.svg)](https://faiss.ai/)
 [![Status](https://img.shields.io/badge/Status-Production-27ae60.svg)]()
 
-[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Repositorio-blue)](https://github.com/NoeMartinezSanchez/chatbot-rag-prepa-en-linea)
+[![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Repositorio-blue)](https://github.com/NoeMartinezSanchez/Chatbot-RAG-system-BERT)
 
 ---
 
