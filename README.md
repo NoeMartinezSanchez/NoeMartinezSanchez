@@ -180,12 +180,14 @@ Plataforma completa de **scraping + sentiment analysis** con visualización en t
 ## 🎓 Experiencia Técnica
 
 **Áreas de Especialización:**
-- 🤖 **Retrieval-Augmented Generation (RAG)**: Sistemas conversacionales con búsqueda semántica
+- 🤖 **Retrieval-Augmented Generation (RAG)**: Sistemas conversacionales con búsqueda semántica, optimización de tokens (67% reducción)
 - 🧠 **Machine Learning**: Clasificación, clustering, reducción dimensional, ensemble methods
-- 🗣️ **NLP**: BERT, transformers, análisis de sentimientos, topic modeling
+- 🗣️ **NLP**: BERT, transformers, análisis de sentimientos, topic modeling, Groq API (LLaMA 3.3)
 - 📊 **Feature Engineering**: Creación y selección de características para modelos robustos
-- 🚀 **MLOps**: Deployment de modelos, APIs REST, monitoreo en producción
-- 📈 **Educación con Datos**: Sistemas predictivos y analíticos para entornos educativos
+- 🚀 **MLOps & CI/CD**: GitHub Actions, despliegue automático a HF Spaces, pruebas automatizadas
+- ☁️ **Cloud Computing**: Oracle Cloud Infrastructure (OCI), Docker, despliegue de APIs
+- 📈 **Monitoreo & Observabilidad**: Logging estructurado, dashboards de métricas reales, tracking de tokens
+- 📚 **Educación con Datos**: Sistemas predictivos y analíticos para entornos educativos
 
 ---
 
