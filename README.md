@@ -1,8 +1,8 @@
 # Hola, soy Noé Martínez
 
-## Data Scientist & AI Engineer | Especialista en RAG y Sistemas Conversacionales
+## Data Scientist & AI Engineer | RAG Production | Multi-LLM (Groq, Gemini, Mistral) | MLOps
 
-Transformo datos en soluciones inteligentes. Especializado en **Machine Learning**, **Procesamiento de Lenguaje Natural** y **sistemas RAG (Retrieval-Augmented Generation)** para educación y análisis de comportamiento digital.
+Transformo datos en soluciones inteligentes. Especializado en LLMs en producción, RAG multi-modelo (Groq, Gemini, Mistral) y MLOps con CI/CD. He reducido consumo de tokens en 67% y desplegado sistemas para 16,000+ usuarios.
 
 ---
 
@@ -182,7 +182,7 @@ Plataforma completa de **scraping + sentiment analysis** con visualización en t
 **Áreas de Especialización:**
 - 🤖 **Retrieval-Augmented Generation (RAG)**: Sistemas conversacionales con búsqueda semántica, optimización de tokens (67% reducción)
 - 🧠 **Machine Learning**: Clasificación, clustering, reducción dimensional, ensemble methods
-- 🗣️ **NLP**: BERT, transformers, análisis de sentimientos, topic modeling, Groq API (LLaMA 3.3)
+- 🗣️ **NLP & LLMs**: BERT, transformers, análisis de sentimientos, topic modeling. **Experiencia con múltiples LLMs:** Groq (LLaMA 3.3), Gemini 2.5 Flash, Gemma 4, Microsoft Phi-3, Mistral 7B, TinyLlama. **Frameworks:** LangChain, Ollama.
 - 📊 **Feature Engineering**: Creación y selección de características para modelos robustos
 - 🚀 **MLOps & CI/CD**: GitHub Actions, despliegue automático a HF Spaces, pruebas automatizadas
 - ☁️ **Cloud Computing**: Oracle Cloud Infrastructure (OCI), Docker, despliegue de APIs
