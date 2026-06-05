@@ -170,7 +170,10 @@ Plataforma completa de **scraping + sentiment analysis** con visualización en t
 | 📊 **Procesamiento Datos** | Volumen | 500,000+ registros procesados |
 | 🚀 **APIs Producción** | Uptime | 99%+ en sistemas desplegados |
 | 🔍 **NLP Avanzado** | Modelos | Fine-tuning BERT para español |
-| ⚡ **Automatización** | Reducción Carga | 32% en sesgo + optimización operativa |
+| ⚡ **Optimización Tokens** | Reducción | 67% menos consumo en Groq API |
+| 🔄 **CI/CD** | Automatización | Despliegue automático a HF Spaces |
+| ☁️ **Cloud** | Infraestructura | Oracle Cloud + Docker + GitHub Actions |
+| 📈 **Dashboard** | Métricas Reales | Tasa de éxito + consumo por hora |
 
 ---
 
