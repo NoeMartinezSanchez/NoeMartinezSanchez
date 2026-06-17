@@ -12,23 +12,35 @@ Transformo datos en soluciones inteligentes. Especializado en LLMs en producció
 
 Sistema de asistencia educativa inteligente con **Retrieval-Augmented Generation** que atiende **16,000+ estudiantes mensuales** con soporte 24/7.
 
-**Stack Técnico:** FastAPI, FAISS, SentenceTransformers, Python 3.12
+**Stack Técnico:** FastAPI, FAISS, SentenceTransformers, **LangChain**, Groq API, Python 3.12
 
 **Arquitectura RAG:**
 - Pipeline completo con embeddings multilingües (paraphrase-MiniLM-L12-v2)
 - Base de datos vectorial FAISS optimizada para producción
+- **Orquestación con LangChain:** Memoria conversacional + conciencia temporal
 - Sistema híbrido: Intent Recognition + RAG para cobertura total
 - API REST robusta con documentación Swagger automática
+
+**Innovaciones Implementadas:**
+- 🧠 **Memoria Conversacional Real:** Contexto entre preguntas con LangChain
+- 📅 **Conciencia Temporal:** El sistema sabe qué fecha es hoy y contextualiza plazos
+- 🔍 **Extracción Automática de Fechas:** Detecta fechas en documentos (regex)
+- ⚡ **Detección Inteligente:** Separa preguntas generales de consultas RAG
+- 🔄 **Fallback Seguro:** Endpoint original preservado para reversión instantánea
 
 **Impacto Medible:**
 - ✅ Soporte 24/7 automatizado para 16,000+ usuarios mensuales
 - ✅ Reducción de carga operativa en Mesa de Servicio
 - ✅ Respuestas contextualizadas desde documentación oficial
+- ✅ Memoria conversacional que mejora la experiencia del usuario
+- ✅ Conciencia temporal que responde "ya terminó" o "faltan X días"
 - ✅ Búsqueda semántica con precisión en 50+ idiomas
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688.svg)](https://fastapi.tiangolo.com/)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-FF6B6B.svg)](https://faiss.ai/)
+[![LangChain](https://img.shields.io/badge/LangChain-Orquestación-1C3C6C.svg)](https://www.langchain.com/)
+[![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-FF6B6B.svg)](https://groq.com/)
 [![Status](https://img.shields.io/badge/Status-Production-27ae60.svg)]()
 
 [![Ver Proyecto](https://img.shields.io/badge/🔍-Ver_Repositorio-blue)](https://github.com/NoeMartinezSanchez/Chatbot-RAG-system-BERT)
@@ -137,6 +149,8 @@ Plataforma completa de **scraping + sentiment analysis** con visualización en t
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge)
 ![SentenceTransformers](https://img.shields.io/badge/Sentence_Transformers-4ECDC4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-Orquestación-1C3C6C?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-FF6B6B?style=for-the-badge) 
 
 ### 🚀 APIs & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -159,6 +173,12 @@ Plataforma completa de **scraping + sentiment analysis** con visualización en t
 ![Logging](https://img.shields.io/badge/Logging-Python_Logging-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Metrics](https://img.shields.io/badge/Métricas-Dashboards_ASCII-FF6B6B?style=for-the-badge)
 
+### 🔗 Orquestación & Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-Orquestación-1C3C6C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-FF6B6B?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Framework-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 ---
 
 ## 📈 Impacto y Métricas
@@ -174,15 +194,19 @@ Plataforma completa de **scraping + sentiment analysis** con visualización en t
 | 🔄 **CI/CD** | Automatización | Despliegue automático a HF Spaces |
 | ☁️ **Cloud** | Infraestructura | Oracle Cloud + Docker + GitHub Actions |
 | 📈 **Dashboard** | Métricas Reales | Tasa de éxito + consumo por hora |
+| **🧠 Memoria Conversacional** | LangChain | Contexto entre preguntas en tiempo real |
+| **📅 Conciencia Temporal** | Auto-detección | Extracción automática de fechas y plazos |
+| **🔧 Orquestación** | Framework | LangChain para flujos RAG complejos |
 
 ---
 
 ## 🎓 Experiencia Técnica
 
 **Áreas de Especialización:**
-- 🤖 **Retrieval-Augmented Generation (RAG)**: Sistemas conversacionales con búsqueda semántica, optimización de tokens (67% reducción)
+- 🤖 **Retrieval-Augmented Generation (RAG)**: Sistemas conversacionales con búsqueda semántica, optimización de tokens (67% reducción), **orquestación con LangChain**, **memoria conversacional** y **conciencia temporal**
 - 🧠 **Machine Learning**: Clasificación, clustering, reducción dimensional, ensemble methods
 - 🗣️ **NLP & LLMs**: BERT, transformers, análisis de sentimientos, topic modeling. **Experiencia con múltiples LLMs:** Groq (LLaMA 3.3), Gemini 2.5 Flash, Gemma 4, Microsoft Phi-3, Mistral 7B, TinyLlama. **Frameworks:** LangChain, Ollama.
+- 🔗 **LangChain & Orquestación**: Chains, memory, agents, tools, callbacks. Implementación de memoria conversacional real y conciencia temporal en producción
 - 📊 **Feature Engineering**: Creación y selección de características para modelos robustos
 - 🚀 **MLOps & CI/CD**: GitHub Actions, despliegue automático a HF Spaces, pruebas automatizadas
 - ☁️ **Cloud Computing**: Oracle Cloud Infrastructure (OCI), Docker, despliegue de APIs
